@@ -40,7 +40,7 @@ This project sets up a real-time data pipeline to pull questions and comments fr
 ## Credits:
  - Olga Beliai: https://github.com/Gliese8
  - Juan Neuenschwander: https://github.com/JuanNeuenschwandesBTS
-- Karen Hourican
+ - Karen Hourican: https://github.com/karenhourican1
 
 
 
