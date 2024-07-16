@@ -1,4 +1,4 @@
-# Reddit Realtime Analysis Sparkstreaming Hackathon 🤖
+# Reddit Realtime Analysis Spark streaming Hackathon 🤖
 
 #### Using Reddit topics (subreddits such as AskReddit, AskMen AskWomen) providing some insights and metrics in Real-Time.  
 #### There are no stupid question?
